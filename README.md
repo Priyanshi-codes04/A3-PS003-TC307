@@ -76,3 +76,7 @@ Our team aims to deliver a practical and innovative solution for PS 003 through 
 ---
 
 AIORI Hackathon | Innovation • Collaboration • Technology
+
+## Project Demo Video
+
+watch our AIORI Hackathon Project presentation : https://youtu.be/G4tpVSKwkEM?si=Pepx2UXTjoxFLPNq
